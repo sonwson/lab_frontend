@@ -1,5 +1,5 @@
 const API_BASE_URL = (
-  process.env.REACT_APP_API_BASE_URL || "https://z7k938-8080.csb.app"
+  process.env.REACT_APP_API_BASE_URL || "https://7ppl78-8080.csb.app"
 ).replace(/\/$/, "");
 
 function buildRequestUrl(endpoint) {
